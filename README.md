@@ -11,14 +11,16 @@ chmod -x napalm.py
 ```
 # Use
 ```
-python napalm.py
+python3 napalm.py [-s] [-p] [-t]
+
+-h : help
+-s : server ip
+-p : port default 80
+-t : turbo default 135
 ```
 # Overview 
 
 Bot Net in Python ...
-
-
- 
 
 # Author 
 
